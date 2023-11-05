@@ -7,7 +7,7 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		paths: {
-			base: '' | '/nbblk.github.io'
+			base: '' || '/nbblk.github.io'
 		}
 	}
 };
