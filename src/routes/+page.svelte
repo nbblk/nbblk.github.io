@@ -1,44 +1,46 @@
 <div class="w-full h-screen mt-20 flex flex-col justify-start items-center gap-8">
-	<section class="w-2/3 h-auto flex justify-center items-start">
-		<div class="w-2/3 flex flex-col justify-center items-start gap-4">
-			<h1 class="text-2xl">Blake Sim</h1>
-			<h3 class="text-lg text-gray-400">
-				Frontend Developer in Seoul<br /> Vancouver from Mar 2024
-				<br /> Remote & hybrid work available<br />
-			</h3>
-			<small class="mt-4 text-sm">
-				<a href="mailto:nbblks@gmail.com" class="underline">nbblks@gmail.com</a>
-				<br /> <span>+82 10-5715-9729</span>
-			</small>
-		</div>
-		<div class="w-1/3 h-auto flex justify-center items-start">
-			<img src="profile_high.jpg" alt="profile" width="250" height="250" />
-		</div>
-	</section>
-	<section class="w-2/3 flex flex-col justify-start items-center text-lg text-gray-600 gap-4">
-		<p>
-			Hello, I'm Blake Sim, a detail-oriented and dedicated professional with 3 years of hands-on
-			experience in web development. My journey began with 2 years of focused frontend work and
-			expanded to encompass 1 year of full-stack development.
-		</p>
-		<p>
-			In my previous roles, I specialized in planning and implementing the prototypes of back-office
-			web applications. I thrive on delving deep into the intricacies of business logic, learning to
-			speak the language of various domains, and effectively collaborating with developers,
-			designers, and managers. My toolkit primarily includes JavaScript, TypeScript, React, and
-			Next.js as my mainstay technologies.
-		</p>
-		<p>
-			Additionally, I've ventured into server-side technologies to gain a broader perspective on web
-			development. But it's not just about the code for me. My true aspiration lies in understanding
-			user behaviors to create applications that are not only user-friendly but also practical. I
-			believe that by putting users at the center of my development process, I can craft solutions
-			that truly resonate with their needs.
-		</p>
-		<p>
-			I'm enthusiastic about taking on new challenges and continually expanding my skill set to
-			deliver innovative, user-centric web applications. Let's connect and explore opportunities to
-			collaborate!
-		</p>
-	</section>
+	<div class="w-1/3 flex flex-col justify-center items-center gap-12">
+		<section class="w-full flex flex-row">
+			<div class="w-full flex flex-col justify-center items-start gap-4">
+				<h1 class="text-2xl">Blake Sim</h1>
+				<h3 class="text-lg text-gray-400">
+					Frontend Developer in Seoul<br /> Vancouver from Mar 2024
+					<br /> Remote & hybrid work available<br />
+				</h3>
+				<small class="mt-4 text-sm">
+					<a href="mailto:nbblks@gmail.com" class="underline">nbblks@gmail.com</a>
+					<br /> <span>+82 10-5715-9729</span>
+				</small>
+			</div>
+			<div class="w-1/3 h-auto flex justify-center items-start">
+				<img src="profile_high.jpg" alt="profile" width="250" height="250" />
+			</div>
+		</section>
+		<section class="w-full flex flex-col justify-start items-center text-lg text-gray-600 gap-4">
+			<p>
+				Hello, I'm Blake Sim, a detail-oriented and dedicated professional with 3 years of hands-on
+				experience in web development. My journey began with 2 years of focused frontend work and
+				expanded to encompass 1 year of full-stack development.
+			</p>
+			<p>
+				In my previous roles, I specialized in planning and implementing the prototypes of
+				back-office web applications. I thrive on delving deep into the intricacies of business
+				logic, learning to speak the language of various domains, and effectively collaborating with
+				developers, designers, and managers. My toolkit primarily includes JavaScript, TypeScript,
+				React, and Next.js as my mainstay technologies.
+			</p>
+			<p>
+				Additionally, I've ventured into server-side technologies to gain a broader perspective on
+				web development. But it's not just about the code for me. My true aspiration lies in
+				understanding user behaviors to create applications that are not only user-friendly but also
+				practical. I believe that by putting users at the center of my development process, I can
+				craft solutions that truly resonate with their needs.
+			</p>
+			<p>
+				I'm enthusiastic about taking on new challenges and continually expanding my skill set to
+				deliver innovative, user-centric web applications. Let's connect and explore opportunities
+				to collaborate!
+			</p>
+		</section>
+	</div>
 </div>
