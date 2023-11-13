@@ -1,22 +1,25 @@
 <div class="w-full h-screen mt-20 flex flex-col justify-start items-center gap-8">
-	<div class="w-1/3 flex flex-col justify-center items-center gap-12">
-		<section class="w-full flex flex-row">
-			<div class="w-full flex flex-col justify-center items-start gap-4">
-				<h1 class="text-2xl">Blake Sim</h1>
-				<h3 class="text-lg text-gray-400">
+	<div class="w-full md:w-1/3 p-4 flex flex-col justify-center items-center gap-12">
+		<section
+			class="w-full flex flex-col md:flex-row md:flex-row-reverse justify-center items-start gap-4"
+		>
+			<div class="w-full md:w-1/3 h-auto flex justify-center items-start">
+				<img src="profile_high.jpg" alt="profile" width="250" height="250" />
+			</div>
+
+			<div class="w-full flex flex-col gap-4">
+				<h1 class="w-full text-center md:text-left text-2xl">Blake Sim</h1>
+				<h3 class="w-full text-center md:text-left text-lg text-gray-400">
 					Frontend Developer in Seoul<br /> Vancouver from Mar 2024
 					<br /> Remote & hybrid work available<br />
 				</h3>
-				<small class="mt-4 text-sm">
+				<small class="inline-block w-full md:text-left text-center mt-4 text-sm">
 					<a href="mailto:nbblks@gmail.com" class="underline">nbblks@gmail.com</a>
 					<br /> <span>+82 10-5715-9729</span>
 				</small>
 			</div>
-			<div class="w-1/3 h-auto flex justify-center items-start">
-				<img src="profile_high.jpg" alt="profile" width="250" height="250" />
-			</div>
 		</section>
-		<section class="w-full flex flex-col justify-start items-center text-lg text-gray-600 gap-4">
+		<section class="w-full flex flex-col justify-start items-center text-lg text-gray-600 gap-8">
 			<p>
 				Hello, I'm Blake Sim, a detail-oriented and dedicated professional with 3 years of hands-on
 				experience in web development. My journey began with 2 years of focused frontend work and
