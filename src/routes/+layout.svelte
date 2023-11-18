@@ -7,6 +7,7 @@
 	<a href="{base}/">About</a>
 	<a href="{base}/project">Project</a>
 	<a href="https://medium.com/@nbblks">Blog</a>
+	<a href="/Blake_Sim_Resume.pdf">Resume</a>
 </nav>
 
 <slot />
