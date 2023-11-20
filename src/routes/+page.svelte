@@ -14,6 +14,9 @@
 					<br /> Remote & hybrid work available<br />
 				</h3>
 				<small class="inline-block w-full md:text-left text-center mt-4 text-sm">
+					<a href="https://www.linkedin.com/in/blake-sim" class="underline"
+						>https://www.linkedin.com/in/blake-sim</a
+					><br />
 					<a href="mailto:nbblks@gmail.com" class="underline">nbblks@gmail.com</a>
 					<br /> <span>+82 10-5715-9729</span>
 				</small>
