@@ -11,7 +11,6 @@
 				<h1 class="w-full text-center md:text-left text-2xl">Blake Sim</h1>
 				<h3 class="w-full text-center md:text-left text-lg text-gray-400">
 					Frontend Developer in Vancouver, BC
-					<br /> Remote & hybrid work available<br />
 				</h3>
 				<small class="inline-block w-full md:text-left text-center mt-4 text-sm">
 					<a href="https://www.linkedin.com/in/blake-sim" class="underline">
