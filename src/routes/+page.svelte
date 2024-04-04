@@ -10,7 +10,7 @@
 			<div class="w-full flex flex-col gap-4">
 				<h1 class="w-full text-center md:text-left text-2xl">Blake Sim</h1>
 				<h3 class="w-full text-center md:text-left text-lg text-gray-400">
-					Frontend Developer in Seoul<br /> Vancouver from Mar 2024
+					Frontend Developer in Vancouver, BC
 					<br /> Remote & hybrid work available<br />
 				</h3>
 				<small class="inline-block w-full md:text-left text-center mt-4 text-sm">
@@ -18,7 +18,7 @@
 						linkedin.com/blake-sim</a
 					><br />
 					<a href="mailto:nbblks@gmail.com" class="underline">nbblks@gmail.com</a>
-					<br /> <span>+82 10-5715-9729</span>
+					<br /> <span>+1 672-963-9729</span>
 				</small>
 			</div>
 		</section>
