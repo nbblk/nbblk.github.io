@@ -1,5 +1,5 @@
 <div class="w-full h-screen mt-20 flex flex-col justify-start items-center gap-8">
-	<div class="w-full md:w-1/3 p-4 flex flex-col justify-center items-center gap-12">
+	<div class="w-full md:w-2/4 p-4 flex flex-col justify-center items-center gap-12">
 		<section
 			class="w-full flex flex-col md:flex-row md:flex-row-reverse justify-center items-start gap-4"
 		>
@@ -47,5 +47,6 @@
 				to collaborate!
 			</p>
 		</section>
+		<footer class="h-[80px]" />
 	</div>
 </div>
